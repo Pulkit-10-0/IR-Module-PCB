@@ -1,5 +1,8 @@
 # IR Sensor Module PCB 
-**KiCad Hardware • Learning Project**
+
+![KiCad](https://img.shields.io/badge/EDA-KiCad-blue)
+![Hardware](https://img.shields.io/badge/Domain-Power%20Electronics-green)
+![Status](https://img.shields.io/badge/Status-Learning%20Project-orange)
 
 A learning-oriented PCB design of an infrared (IR) sensor module created while exploring schematic design, PCB routing fundamentals, and KiCad hardware workflows.
 
